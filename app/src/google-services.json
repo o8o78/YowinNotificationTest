@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526041417394",
+    "project_id": "pushtest-f8df5",
+    "storage_bucket": "pushtest-f8df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526041417394:android:50243e6dadd6f1844b2bab",
+        "android_client_info": {
+          "package_name": "com.byteroll.notificationTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526041417394-dooo1tfqgnb4aabl3jqg6nbd80ebc018.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDendSvUj4w41UvILrVk_XCQWFgw3gk35c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526041417394-dooo1tfqgnb4aabl3jqg6nbd80ebc018.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
